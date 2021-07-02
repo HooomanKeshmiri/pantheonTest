@@ -1,0 +1,6 @@
+name: hoomanpantheon
+recipe: pantheon
+config:
+  framework: drupal8
+  site: hoomanpantheon
+  id: 858684db-367c-4d15-839b-e9937ee5f6fa
