@@ -3,7 +3,7 @@ sites/*/files
 sites/*/private
 files/*
 settings.php
-
+index.html
 # Avoid accidental modification of pantheon.upstream.yml in sites
 # created from this upstream
 pantheon.upstream.yml
