@@ -13,7 +13,7 @@ Downloading Lando: https://docs.lando.dev/basics/installation.html
 
 To use this web page first download the code base from github. Following that install Lando on your device and in the repository that you cloned.  
 
- Type `lando start` to have lando build the app. Following that it will display a URL that is the name you set in the `.lando.yml` file followed by .lndo.site. Then type `lando pull` to pull the pantheon database to your local machine. Then you can either copy the URL into your browser or type `open firstDrupalSite.lndo.site` to open the webpage. After that the website should open and you should be able to interact with the drupal website.
+ Type `lando start` to have lando build the app. Following that it will display a URL that is the name you set in the `.lando.yml` file followed by .lndo.site. Then type `lando pull` to pull the pantheon database to your local machine. Then you can either copy the URL into your browser or type `open pantheonTest.lndo.site` to open the webpage. After that the website should open and you should be able to interact with the drupal website.
 
 #
 
